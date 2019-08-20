@@ -1,2 +1,2 @@
 # neural_network_maths
-Neural Network Implementation from Scratch: Derivatives, chain rule and multiplications
+https://medium.com/@varshadhml/neural-network-implementation-derivatives-chain-rule-and-multiplications-818ea3aaf06e
